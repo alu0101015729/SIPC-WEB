@@ -2,26 +2,40 @@
 <?xml-stylesheet type="text/xsl" href="archivo_de_xsl_que_tienes_que_crear.xsl"?>
 <recetario>
 <receta1>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
-<Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
-</Instrucciones>
+	<title>Empanadas Venezolanas</title>
+	<description> Alimento muy rico y típico de la cultura latina </description>
+	<raciones> 12 </raciones>
+	<ingrediente1> Harina de maiz </ingrediente1>
+		<cantidad> 0.5 kg </cantidad>
+	<ingrediente2> agua </ingrediente2>
+		<cantidad> 960 ml </cantidad>
+	<ingrediente3> sal </ingrediente3>
+		<cantidad> 10 g </cantidad>
+	<ingrediente4> azúcar </ingrediente4>
+		<cantidad> 10 g </cantidad>
+	<ingrediente5> carne mechada </ingrediente5>
+		<cantidad> 1.5 kg </cantidad>
+	<ingrediente6> aceite </ingrediente6>
+		<cantidad> 200 ml </cantidad>	
+	<ingrediente7> bolsa plastica con cierre </ingrediente7>
+		<cantidad> 1 </cantidad>		
+	<TiempoPreparacion> 30 minutos </TiempoPreparacion>
+	<Instrucciones>
+		<paso1>Vacía la harina de maíz dentro de un bol grande. Añade la azúcar, la sal y poco a poco el agua. Mientras, comienza a mezclar con la otra mano.</paso1>
+		<paso2>Amasa bien hasta que sientas una textura pareja, suave y sin grumos. Luego deja reposar por 4 o 5 minutos, así ganará consistencia.</paso2>
+		<paso3>Divide la masa de las empanadas venezolanas en bolas medianas.</paso3>
+		<paso4> Sobre una superficie plana, coloca el plástico. Si utilizas una bolsa plástica con cierre, será más fácil porque ya tienen una división. Antes de utilizarla, recorta los tres bordes, incluyendo el cierre, debe quedarte un rectángulo. Ábrela y extiende. </paso4>
+		<paso5> Frota el plástico con aceite o agua, así la masa de las empanadas de cazón no se pegará. Luego, coloca en el centro una de las bolitas de masa. Aplasta con la palma de la mano hasta formar un circulo de ½ cm de grosor. Si la masa queda muy delgada al cocinarse se romperá y por el contrario, si es muy gruesa, será desagradable al gusto. </paso5>
+		<paso6> En el centro de la masa deposita 1 a 2 cucharadas del guiso de cazón. Sé generoso pero no te excedas, porque luego podría desbordarse el relleno por los bordes al freír la empanada y se rompería. </paso6>
+		<paso7> Dobla el plástico hasta cubrir el relleno y juntar los bordes de la masa. El resultado final será una media luna. </paso7>
+		<paso8> Utiliza un recipiente redondo para delimitar la forma de la empanada. Puedes utilizar un plato hondo, un bol pequeño, un tazón de sopa, etc. Presiona con el recipiente seleccionado, como si utilizaras un cortador de galletas. Retira el excedente de masa y luego saca cuidadosamente el plástico también. Coloca las empanadas de cazón guisado en un plato plano grande o bandeja. </paso8>
+		<paso9> Previamente calienta aceite dentro de un caldero. Aplica fuego medio-alto. Fríe hasta dorar las empanadas venezolanas. Posteriormente retíralas y colócalas sobre un plato y sirvelas </paso9>
+	</Instrucciones>
 </receta1>
 <receta2>
 	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
+	<description> Este smoothie frío de café y chocolate es una opción de desayuno o merienda perfecta para los días calurosos.  </description>
+	<raciones> 2 </raciones>
 	<ingrediente1> </ingrediente1>
 		<cantidad> </cantidad>
 	<ingrediente2> </ingrediente2>
