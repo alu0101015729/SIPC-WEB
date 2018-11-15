@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Cookie|Courgette|Shrikhand');
+body{
+  background-color:#ADEAEA;
+  color:black;
+  text-align:center;
+}
+
+h1{
+  display:inline-block;
+  position:relative;
+  font-family: 'Courgette', cursive;
+  transition:all 0.8s ease-in;
+}
+
+h1:hover{
+  font-size:40px;
+  color:gray;
+}
+
+h1::after,h1::before{
+  content:'';
+  position:absolute;
+  width:140px;
+  height:6px;
+  background-color:currentColor;
+  top:0.6em;
+  transform:scale(0);
+  transition:all 0.8s ease-in;
+}
+
+h1:hover::before, h1:hover::after{
+  transform:scale(1);
+}
+
+h1::after{
+  left:-150px;
+}
+
+h1::before{
+  right:-150px;
+}
+
+.Link{
+  font-family: 'Shrikhand', cursive;
+  display:inline-block;
+  position:relative;
+  text-decoration:none;
+  font-size:18px;
+  color:#238E68;
+  transition:all 0.6s ease-in;
+}
+
+.Link:hover{
+  text-decoration:underline wavy green;
+  color:green;
+  font-size:25px;
+}
+
+img{
+  border: 5px solid white;
+  width:80%;
+  transition:all 0.4s ease-in;
+}
+
+img:hover{
+  border: 7px solid #007FFF;
+  width:90%;
+}
+
+p{
+  font-family: 'Cookie', cursive;
+  font-size:20px;
+  color:black;
+}
