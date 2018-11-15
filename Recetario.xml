@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="archivo_de_xsl_que_tienes_que_crear.xsl"?>
+<recetario>
+<receta1>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta1>
+<receta2>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta2>
+<receta3>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta3>
+<receta4>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta4>
+<receta5>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta5>
+<receta6>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta6>
+<receta7>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta7>
+<receta8>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta8>
+<receta9>
+	<title> </title>
+	<description> </description>
+	<raciones> </raciones>
+	<ingrediente1> </ingrediente1>
+		<cantidad> </cantidad>
+	<ingrediente2> </ingrediente2>
+		<cantidad1> </cantidad1>
+	<utensilios> </utensilios>	
+	<TiempoPreparacion> </TiempoPreparacion>
+<TiempoTotal> </TiempoTotal>
+<Instrucciones>
+	<paso1></paso1>
+	<paso2></paso2>
+	<paso3></paso3>
+</Instrucciones>
+</receta9>
+</recetario>
