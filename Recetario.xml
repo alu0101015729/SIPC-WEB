@@ -33,139 +33,218 @@
 	</Instrucciones>
 </receta1>
 <receta2>
-	<title> </title>
+	<title> Smoothie frio de cafe y chocolate </title>
 	<description> Este smoothie frío de café y chocolate es una opción de desayuno o merienda perfecta para los días calurosos.  </description>
 	<raciones> 2 </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<ingrediente1> taza de café </ingrediente1>
+		<cantidad> 1/2 taza </cantidad>
+	<ingrediente2> plátanos congelados </ingrediente2>
+		<cantidad1> 2 </cantidad1>
+	<ingrediente3> leche de soja </ingrediente3>
+		<cantidad> 250ml </cantidad>
+	<ingrediente4> chucharada sopera de cacao </ingrediente4>
+		<cantidad> 2 </cantidad>
+	<ingrediente5> cucharada soperaa de sirope de agave </ingrediente5>
+		<cantidad> 2 </cantidad>
+	<ingrediente1> chocolate negro </ingrediente1>
+		<cantidad> 30gr </cantidad>
+	<TiempoPreparacion> 15 minutos </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Coloca todos los ingredientes en el vaso de la batidora, es decir, el café preparado y bien frío, los plátanos congelados, la leche de soja, el sirope de agave, el cacao puro y el chocolate negro.</paso1>
+	<paso2>Bate a velocidad alta hasta que todos los ingredientes se integren y quede un smoothie de chocolate homogéneo.</paso2>
+	<paso3>Vierte el smoothie de chocolate y café en vasos y espolvorea un poco más de cacao por encima. También puedes añadir un poco de sirope de chocolate. </paso3>
 </Instrucciones>
 </receta2>
 <receta3>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title> Brochetas de pollo y pìña </title>
+	<description> brochetas de pollo y piña, un contraste de sabores que seguro gustará a todos. No hay nada mejor que comer unos pinchos </description>
+	<raciones> 4 </raciones>
+	<ingrediente1> pechuga de pollo </ingrediente1>
+		<cantidad> 3 </cantidad>
+	<ingrediente2> piña natural </ingrediente2>
+		<cantidad1> 1 lata </cantidad1>
+	<ingrediente3> soja salada </ingrediente3>
+		<cantidad> 4 cucharadas soperas </cantidad>
+	<ingrediente4> postre de curry </ingrediente4>
+		<cantidad> 1 cucharada </cantidad>
+	<ingrediente5> aceite de oliva</ingrediente5>
+		<cantidad> 1 chorro </cantidad>
+	<ingrediente6> pimienta </ingrediente6>
+		<cantidad> 1 pizca </cantidad>
+	<ingrediente7> semillas de sesamo </ingrediente7>
+		<cantidad> 2 cucharadas soperas </cantidad>
+	<ingrediente8> dientes de ajo </ingrediente8>
+		<cantidad> 2 </cantidad>
+	<ingrediente9> pinchos </ingrediente9>
+		<cantidad> 1 paquete </cantidad>	
+	<TiempoPreparacion> 2h 30 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Preparamos todos los ingredientes para empezar a hacer las brochetas de pollo y piña al curry.</paso1>
+	<paso2>Limpiamos y cortamos las pechugas en trozos.</paso2>
+	<paso3>Ponemos los trozos de pechuga de pollo en un bol. Añadiremos la salsa de soja, los ajos picados, el curry, la pimienta y un poco de aceite de oliva y unas cuantas semillas de sésamo.</paso3>
+	<paso4>Removemos bien todos los ingredientes ya que han de quedar bien mezclados con la carne. Reservamos en la nevera un par de horas o hasta que vayamos a preparar las brochetas de pollo y piña con salsa de soja</paso4>
+	<paso5>Sacamos la carne de pollo reservada y cortamos la piña en trozos.</paso5>
+	<paso6>Vamos insertando en los palitos de madera un trozo de pollo marinado y un trozo de piña, o cada dos. A vuestro gusto. </paso6>
+	<paso7>Ponemos una plancha al fuego y cuando esté caliente añadimos un chorro de aceite y ponemos las brochetas a cocinar.</paso7>
+	<paso8>Iremos dándoles la vuelta hasta que estén bien doradas por todo.</paso8>
+	<paso9>Y ya estarán listas las brochetas de pollo y piña para comer.</paso9>
 </Instrucciones>
 </receta3>
 <receta4>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title> Magdalenas de Nutella </title>
+	<description> Deliciosas magdalenas de Nutella, ricas y sencillas de hacer, ideales para una merienda o desayuno. </description>
+	<raciones> 4 </raciones>
+	<ingrediente1> Nutella </ingrediente1>
+		<cantidad> 300gr </cantidad>
+	<ingrediente2> Huevos </ingrediente2>
+		<cantidad1> 3 </cantidad1>
+	<ingrediente3> Harina </ingrediente3>
+		<cantidad> 70gr </cantidad>
+	<TiempoPreparacion> 30 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Preparamos los ingredientes para hacer estas magdalenas rellenas de Nutella.</paso1>
+	<paso2>Ponemos la Nutella en un bol y lo pondremos un minuto al microondas para que se quede más ligera.</paso2>
+	<paso3>En un bol ponemos los tres huevos y batimos, luego iremos añadiendo la Nutella poco a poco batiendo bien para que se quede bien mezclado.</paso3>
+	<paso4>Añadiremos la harina que tamizaremos primero o la pasaremos por un colador. Mezclamos.</paso4>
+	<paso5>Cogemos un molde para cupcakes, ponemos unas papelinas o cápsulas para magdalenas, e iremos añadiendo la masa llenando unas 3/4 partes del papel. Meteremos al horno a 170 ºC durante 8-10 minutos según el horno.</paso5>
+	<paso6>Sacamos, dejamos enfriar. Y ya estarán las magdalenas de Nutella listas para comer.</paso6>
 </Instrucciones>
 </receta4>
 <receta5>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title> Tortilla de papas y bacalao </title>
+	<description> una tortilla de patatas y bacalao casera, una estupenda tortilla jugosa y rica. Otra manera de comer bacalao </description>
+	<raciones> 1 </raciones>
+	<ingrediente1> Huevos </ingrediente1>
+		<cantidad> 4 </cantidad>
+	<ingrediente2> Claras de huevo </ingrediente2>
+		<cantidad1> 2 </cantidad1>
+	<ingrediente3> Papas </ingrediente3>
+		<cantidad> 2 </cantidad>
+	<ingrediente4> bacalao desalado </ingrediente4>
+		<cantidad> 150gr </cantidad>
+	<ingrediente5> Pimiento verde </ingrediente5>
+		<cantidad> 2 </cantidad>
+	<ingrediente6> aceite de oliva </ingrediente6>
+		<cantidad> 1 chorro </cantidad>
+	<ingrediente7> sal </ingrediente7>
+		<cantidad> 1 pizca </cantidad>	
+	<TiempoPreparacion> 45 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Preparamos los ingredientes. Picamos en tiritas pequeñas el bacalao, pelamos las patatas y las cortamos en rodajas muy finas. Lavamos y picamos los pimientos verdes.</paso1>
+	<paso2>Ponemos una sartén al fuego medio con un buen chorro de aceite, añadimos las patatas y los pimientos. Dejamos cocinar hasta que queden bien tiernos.</paso2>
+	<paso3>Cuando estén las patatas bien tiernas añadimos el bacalao desalado en tiritas, y lo mezclamos todo.</paso3>
+	<paso4>En un bol ponemos los huevos y las claras y batimos bien, añadimos toda la fritada de patatas, pimientos y bacalao. Lo sazonamos con un poco de sal, sin pasarnos ya que el bacalao ya lleva sal. Lo mezclamos todo bien.</paso4>
+	<paso5>Ponemos la sartén con un poquito de aceite, volcamos toda la mezcla y cuando alrededor veamos que está hecha damos la vuelta a la tortilla de patatas con bacalao y pimientos para terminarla de cocinar.</paso5>
+	<paso6>Cuando ya esté lista a nuestro gusto, más hecha o menos, sacamos y servimos la tortilla de patatas y bacalao bien calentita.</paso6>
 </Instrucciones>
 </receta5>
 <receta6>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title> Ensaladilla rusa vegana </title>
+	<description> La ensaladilla rusa es una de las tapas más conocidas. Se trata de una mezcla de hortalizas y otros ingredientes aderezados con mayonesa </description>
+	<raciones> 4 </raciones>
+	<ingrediente1> papas </ingrediente1>
+		<cantidad> 4 </cantidad>
+	<ingrediente2> zanahorias </ingrediente2>
+		<cantidad> 2 </cantidad>
+	<ingrediente3> gisantes </ingrediente3>
+		<cantidad> 1/2 taza </cantidad>
+	<ingrediente4> pepinillos </ingrediente4>
+		<cantidad> 3 </cantidad>
+	<ingrediente5> pepino </ingrediente5>
+		<cantidad> 1/2 </cantidad>
+	<ingrediente6> sal </ingrediente6>
+		<cantidad> 1 cucharadita </cantidad>
+	<ingrediente7> aceite vegetal </ingrediente7>
+		<cantidad> 1/2 taza </cantidad>
+	<ingrediente8> leche soja </ingrediente8>
+		<cantidad> 1/4 taza </cantidad>
+	<ingrediente9> vinagre </ingrediente9>
+		<cantidad> 1 cucharadita </cantidad>
+	<TiempoPreparacion> 45 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Cuece las patatas y las zanahorias en agua hirviendo hasta que queden blandas. Deja que se enfríen y córtalas en dados pequeños.</paso1>
+	<paso2>Pela el pepino y córtalo junto con los pepinillos en dados pequeños.</paso2>
+	<paso3>Mezcla toda la verdura en un bol grande para seguir con la receta de ensaladilla rusa vegana.</paso3>
+	<paso4>Para hacer la mayonesa vegana, vierte en el vaso de la batidora la leche de soja, el aceite, el vinagre y la sal y bate los ingredientes hasta que emulsione y se monte una mayonesa cremosa.</paso4>
+	<paso5>Añade la mayonesa vegana al bol con la verdura, salpimienta y mezcla bien.</paso5>
+	<paso6>Sirve la ensaladilla rusa vegana como tapa con palitos de pan o como guarnición de un plato fuerte</paso6>
 </Instrucciones>
 </receta6>
 <receta7>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title> Arroz con champiñones y perejil </title>
+	<description> Arroz integral salteado con champiñones, un plato sencillo, sano y ligero. Esta receta me gusta mucho porque aporta sabor y menos calorías. </description>
+	<raciones> 4 </raciones>
+	<ingrediente1> Arroza Integral </ingrediente1>
+		<cantidad> 350gr </cantidad>
+	<ingrediente2> champiñon </ingrediente2>
+		<cantidad> 1 lata </cantidad>
+	<ingrediente3> ajo </ingrediente3>
+		<cantidad> 2 dientes </cantidad>
+	<ingrediente4> perejil </ingrediente4>
+		<cantidad> 1 puñado </cantidad>
+	<ingrediente5> sal </ingrediente5>
+		<cantidad> 1 pizca </cantidad>
+	<ingrediente6> aceite de oliva </ingrediente6>
+		<cantidad> 1 chorro </cantidad>	
+	<TiempoPreparacion> 45 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Preparamos los ingredientes para el arroz salteado con los champiñones, ajo y perejil.</paso1>
+	<paso2>Ponemos una olla con agua al fuego y, cuando empiece a hervir, añadimos el arroz integral para cocerlo durante 20-30 minutos, según el fabricante. El arroz integral necesita un poco más de cocción que el arroz común. Cuando esté lo sacamos y escurrimos.</paso2>
+	<paso3>Picamos el ajo y el perejil</paso3>
+	<paso4>Ponemos una sartén con aceite, salteamos los champiñones laminados y, cuando cojan un poco de color, añadimos el ajo y el perejil, y removemos para que se mezcle todo bien, con cuidado de que no se nos queme el ajo. Sacamos y reservamos.</paso4>
+	<paso5>Ponemos el arroz en una sartén o cazuela al fuego, añadimos un poquito de aceite, ajo y perejil, y removemos. Probamos de sal.</paso5>
+	<paso6>Agregamos los champiñones que tenemos con ajo y perejil, removemos todo junto unos minutos y servimos.</paso6>
 </Instrucciones>
 </receta7>
 <receta8>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
-	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
+	<title>Bocadillo Serranito</title>
+	<description>Los bocadillos de lomo son muy socorridos para multitud de ocasiones, los hay sencillos y muy rápidos de cocinar y otros como en este caso concreto que requieren su tiempo y cocina para completarlo. </description>
+	<raciones> 2 </raciones>
+	<ingrediente1> panecillos </ingrediente1>
+		<cantidad> 2 </cantidad>
+	<ingrediente2> lomo de cerdo </ingrediente2>
+		<cantidad> 6 filetes </cantidad>
+	<ingrediente3> jamon serrano </ingrediente3>
+		<cantidad> 4 lonchas </cantidad>
+	<ingrediente4> pimiento italiano </ingrediente4>
+		<cantidad> 2 </cantidad>
+	<ingrediente5> aceite de oliva </ingrediente5>
+		<cantidad> 1/2 vaso </cantidad>
+	<ingrediente6> Pimienta negra molida </ingrediente6>
+		<cantidad> 1 pizca </cantidad>
+	<ingrediente7> sal </ingrediente7>
+		<cantidad> 1 pizca </cantidad>	
+	<TiempoPreparacion> 30 min </TiempoPreparacion>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Ponemos al fuego una sartén con un poco de aceite de oliva y freímos los pimientos, una vez fritos los reservamos.</paso1>
+	<paso2>Quitamos el aceite que quede en la sartén y en esa misma asamos el lomo salpimentado, una vez asado, lo reservamos junto a los pimientos. Luego damos una vuelta en la sartén a las lonchas de jamón serrano.</paso2>
+	<paso3>Mientras vamos haciendo el lomo y el jamón, calentamos un poco el pan y montamos el bocadillo serranito poniendo 3 lonchas de lomo, encima 2 lonchas de jamón y encima de todo un pimiento frito italiano.</paso3>
+	<paso4>Cubrimos con la rebanada de pan que nos queda y servimos el bocadillo de lomo, pimientos, queso y jamón serrano caliente.</paso4>
 </Instrucciones>
 </receta8>
 <receta9>
-	<title> </title>
-	<description> </description>
-	<raciones> </raciones>
-	<ingrediente1> </ingrediente1>
-		<cantidad> </cantidad>
-	<ingrediente2> </ingrediente2>
-		<cantidad1> </cantidad1>
-	<utensilios> </utensilios>	
+	<title> Migas </title>
+	<description> Las migas extremeñas caseras que comparte Jose Baéz es una receta magnífica para aprovechar todo ese pan que se va quedando viejo en casa. </description>
+	<raciones> 4 </raciones>
+	<ingrediente1> pan viejo de varios dias </ingrediente1>
+		<cantidad> 600gr </cantidad>
+	<ingrediente2> Aceite de oliva virgen extra </ingrediente2>
+		<cantidad> 6 cucharadas soperas </cantidad>
+	<ingrediente3> Ajo </ingrediente3>
+		<cantidad> 10 dientes </cantidad>
+	<ingrediente4> Pimiento Rojo </ingrediente4>
+		<cantidad> 1 </cantidad>
+	<ingrediente5> Agua </ingrediente5>
+		<cantidad> 1 vaso </cantidad>
+	<ingrediente6> Sal </ingrediente6>
+		<cantidad> 1 cucharadita </cantidad>	
 	<TiempoPreparacion> </TiempoPreparacion>
-<TiempoTotal> </TiempoTotal>
 <Instrucciones>
-	<paso1></paso1>
-	<paso2></paso2>
-	<paso3></paso3>
+	<paso1>Se trocea el pan en un bol, puedes cortarlo en rebanadas finas o en tacos pequeños. Aparte, echamos la sal en el agua y la batimos bien hasta que se disuelva.</paso1>
+	<paso2>Mientras, ponemos una sartén al fuego con el aceite y los ajos, con piel, cortados a la mitad. Cuando veamos que los ajos ya están fritos, los sacamos del aceite y reservamos.</paso2>
+	<paso3>Añadimos el pan en la sartén con el aceite de ajo y también incorporamos el pimiento cortado en trozos pequeños. Continuamos con la cocción a fuego lento y le vamos dando vuelta hasta que el pan absorba el aceite.</paso3>
+	<paso4>En estos momentos paramos hasta que veamos que el pan por debajo tome color dorado e incorporamos los ajos fritos sin piel y le seguimos dando vuelta a la vez que vamos picando todo con la espátula o la cuchara de cocina.</paso4>
+	<paso5>Mantén la cocción de la migas hasta que el pan tome color</paso5>
 </Instrucciones>
 </receta9>
 </recetario>
